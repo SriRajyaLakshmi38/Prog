@@ -3,15 +3,13 @@ import java.util.*;
 
 public class RemoveVowels
 {        
-    // Check for vowels
     static boolean isVowel(char ch)
     {
         ch = Character.toUpperCase(ch);
         return (ch=='A' || ch=='E' || ch=='I' ||
                            ch=='O' || ch=='U');
     }
-      
-    // Counts the number of vowels in str
+
     static int count(String str)
     {
         int total= 0;
