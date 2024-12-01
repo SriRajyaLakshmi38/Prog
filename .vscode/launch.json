@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "ConVol",
+            "request": "launch",
+            "mainClass": "ConVol",
+            "projectName": "Prog_8ff90d3e"
+        },
+        {
             "name": "Launch Edge",
             "request": "launch",
             "type": "msedge",
@@ -24,9 +31,6 @@
             "request": "launch",
             "mainClass": ""
         },
-
-
-
         {
             "type": "java",
             "name": "Current File",
