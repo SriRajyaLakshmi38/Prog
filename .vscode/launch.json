@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseStr",
+            "request": "launch",
+            "mainClass": "ReverseStr",
+            "projectName": "Prog_8ff90d3e"
+        },
+        {
+            "type": "java",
             "name": "Prime",
             "request": "launch",
             "mainClass": "Prime",
