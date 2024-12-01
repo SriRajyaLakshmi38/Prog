@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "Prog_8ff90d3e"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "Prog_8ff90d3e"
+        },
+        {
+            "type": "java",
             "name": "Even",
             "request": "launch",
             "mainClass": "Even",
