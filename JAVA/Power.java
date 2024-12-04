@@ -4,7 +4,7 @@ public class Power {
   Scanner Sc = new Scanner(System.in);
   int a = Sc.nextInt();
   int b = Sc.nextInt();
-  int c = a*b;
+  double c = Math.pow(a, b);
   System.out.println(c);
   }
 }
